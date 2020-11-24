@@ -1,4 +1,4 @@
-# Sentimental-Analysis-on-Tweets
+# Sentiment-Analysis-on-Tweets
 
 Based on [the following Coursera project](https://www.coursera.org/projects/sentiment-analysis-bert), with the following *unfinished* modifications:
 
