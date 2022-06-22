@@ -2,7 +2,7 @@
 
 Based on [the following project](https://www.coursera.org/projects/sentiment-analysis-bert), with the following modifications:
 
-- [ ] Collecting more Tweets 
+- [x] Collecting more Tweets 
 - [x] Oversampling underrepresented classes
 
 To install the Transformers API needed for this project:
